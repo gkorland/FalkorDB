@@ -30,6 +30,8 @@
 
 ---
 
+---
+
 ## UNIQUE FEATURES
 
 Our goal is to build a high-performance Knowledge Graph tailored for Large Language Models (LLMs), prioritizing exceptionally low latency to ensure fast and efficient information delivery through our Graph Database.
